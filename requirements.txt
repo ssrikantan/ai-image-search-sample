@@ -1,0 +1,8 @@
+
+
+gradio
+requests
+python-dotenv
+azure-core
+azure-search-documents==11.4.0
+azure-storage-blob
